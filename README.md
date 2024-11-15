@@ -1,5 +1,9 @@
 # 2048-Game
-this game handle <=128 not more!   
-this game doesn't have lose alert!   
-date i finish this project: 10/2/2023.   
-you should play with w a s and d.
+
+Play with W, A, S and D.
+
+Handles no more than 128 and no alert for lose !!!
+
+Made by Mani.
+10/02/2023
+
